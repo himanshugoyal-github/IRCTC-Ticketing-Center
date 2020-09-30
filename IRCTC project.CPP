@@ -17,6 +17,7 @@ struct sign_up
 	int tst1,tst2;//states of travelling
 	int tconformation;//does your ticket really exist
 }s[100];
+//----------------------------------------------
 void signup(int am)
 {
 	clrscr();
